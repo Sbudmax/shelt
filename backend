@@ -1,0 +1,4 @@
+mkdir animal-shelter
+cd animal-shelter
+mkdir backend
+cd backend
